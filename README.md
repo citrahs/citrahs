@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @citrahs
+- 👋 Hi, I’m citra
 - 👀 I’m interested in Data Science stuff
 - 🌱 I’m currently learning sosial science
 - 💞️ I’m looking for cross domain knowledge collaboration
